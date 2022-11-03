@@ -3,7 +3,7 @@
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   Demo Video
-https://drive.google.com/file/d/19i0M6WgdXKunzNqEQzWU2bxXpod9Ogwn/view?usp=sharing
+  ![Demo](https://drive.google.com/file/d/19i0M6WgdXKunzNqEQzWU2bxXpod9Ogwn/view?usp=sharing)
   
   ## Table of Contents
 
